@@ -90,3 +90,8 @@ SolactiveCodingTestApplicationTests.java
 ## Feedback
 
 I loved the task. It tests various part of coding skills like multithreading, design practices, SOLID priciples and problem solving.
+
+
+## Note
+
+* GET API for both statistics, always fetches data for past 60 seconds and consolidate it. So, it is treated as O(1) complexity, as it takes constant time execution for any input.
